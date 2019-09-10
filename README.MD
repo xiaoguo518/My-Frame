@@ -1,7 +1,7 @@
 ### MYFrame
 - Simple PHP Framework
 #### Requirements
-  - PHP > 5.6.0
+  - PHP > 7.0.0
 #### Frame Structure
     .
     ├── README.MD
