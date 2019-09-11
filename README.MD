@@ -1,4 +1,4 @@
-### MYFrame
+### XiaoGuoFrame
 - Simple PHP Framework
 #### Requirements
   - PHP >= 7.0.0
